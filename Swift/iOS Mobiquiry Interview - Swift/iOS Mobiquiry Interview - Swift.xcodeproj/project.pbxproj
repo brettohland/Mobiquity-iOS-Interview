@@ -12,7 +12,6 @@
 		834A7ED81FD9CD56000C9027 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 834A7ED61FD9CD56000C9027 /* Main.storyboard */; };
 		834A7EDA1FD9CD56000C9027 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 834A7ED91FD9CD56000C9027 /* Assets.xcassets */; };
 		834A7EDD1FD9CD56000C9027 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 834A7EDB1FD9CD56000C9027 /* LaunchScreen.storyboard */; };
-		834A7EE81FD9CD57000C9027 /* iOS_Mobiquiry_Interview___SwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 834A7EE71FD9CD57000C9027 /* iOS_Mobiquiry_Interview___SwiftTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,7 +33,6 @@
 		834A7EDC1FD9CD56000C9027 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		834A7EDE1FD9CD56000C9027 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		834A7EE31FD9CD57000C9027 /* iOS Mobiquiry Interview - SwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS Mobiquiry Interview - SwiftTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		834A7EE71FD9CD57000C9027 /* iOS_Mobiquiry_Interview___SwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "iOS_Mobiquiry_Interview___SwiftTests.swift"; sourceTree = "<group>"; };
 		834A7EE91FD9CD57000C9027 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -90,7 +88,6 @@
 		834A7EE61FD9CD57000C9027 /* iOS Mobiquiry Interview - SwiftTests */ = {
 			isa = PBXGroup;
 			children = (
-				834A7EE71FD9CD57000C9027 /* iOS_Mobiquiry_Interview___SwiftTests.swift */,
 				834A7EE91FD9CD57000C9027 /* Info.plist */,
 			);
 			path = "iOS Mobiquiry Interview - SwiftTests";
@@ -208,7 +205,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				834A7EE81FD9CD57000C9027 /* iOS_Mobiquiry_Interview___SwiftTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

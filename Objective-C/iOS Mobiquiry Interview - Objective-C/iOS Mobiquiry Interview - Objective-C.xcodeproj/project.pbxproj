@@ -13,7 +13,6 @@
 		834A7F081FD9CD78000C9027 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 834A7F071FD9CD78000C9027 /* Assets.xcassets */; };
 		834A7F0B1FD9CD78000C9027 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 834A7F091FD9CD78000C9027 /* LaunchScreen.storyboard */; };
 		834A7F0E1FD9CD78000C9027 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 834A7F0D1FD9CD78000C9027 /* main.m */; };
-		834A7F181FD9CD78000C9027 /* iOS_Mobiquiry_Interview___Objective_CTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 834A7F171FD9CD78000C9027 /* iOS_Mobiquiry_Interview___Objective_CTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +37,6 @@
 		834A7F0C1FD9CD78000C9027 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		834A7F0D1FD9CD78000C9027 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		834A7F131FD9CD78000C9027 /* iOS Mobiquiry Interview - Objective-CTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS Mobiquiry Interview - Objective-CTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		834A7F171FD9CD78000C9027 /* iOS_Mobiquiry_Interview___Objective_CTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "iOS_Mobiquiry_Interview___Objective_CTests.m"; sourceTree = "<group>"; };
 		834A7F191FD9CD79000C9027 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -97,7 +95,6 @@
 		834A7F161FD9CD78000C9027 /* iOS Mobiquiry Interview - Objective-CTests */ = {
 			isa = PBXGroup;
 			children = (
-				834A7F171FD9CD78000C9027 /* iOS_Mobiquiry_Interview___Objective_CTests.m */,
 				834A7F191FD9CD79000C9027 /* Info.plist */,
 			);
 			path = "iOS Mobiquiry Interview - Objective-CTests";
@@ -215,7 +212,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				834A7F181FD9CD78000C9027 /* iOS_Mobiquiry_Interview___Objective_CTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
